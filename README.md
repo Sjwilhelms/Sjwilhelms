@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and Python... 
 - 💞️ I’m looking to collaborate on Javascript and Python applications
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sam-williams-developer)
-- 📫 Visit me at [my page](mayonet.uk)
+- 📫 Visit me at [my page](https://mayonet.uk/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can sail
 
